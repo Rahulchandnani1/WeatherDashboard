@@ -17,6 +17,9 @@ Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 The page will reload when you make changes.\
 You may also see any lint errors in the console.
 
+Then user will have to enter City name like Ajmer, Delhi, Jaipur etc in Search bar after 
+that user can get the data either by clicking on search button or by pressing enter
+
 ### `npm test`
 
 Launches the test runner in the interactive watch mode.\
